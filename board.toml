@@ -43,7 +43,7 @@ soc = "SM8550"
 description = "Meizu 20 Classic"
 kit = "sheng"                      # package/ of this repository appears as kits/sheng in the build tree (fuxi same: build-sheng-platform-power.py reads kits/sheng/ShengPlatformPower.cpp)
 soc_source = "sm8550"              # feeds.toml pins UniXNU-sm8550-common
-os_profile = "ipados-27.0.1-24A446"
+os_profile = "ipados-26.5.2-23F84"
 
 # The raw image for the userdata partition: the OS and SystemOS disk images of
 # the IPSW behind a manifest.
